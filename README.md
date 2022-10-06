@@ -39,9 +39,4 @@
 <br/>  
 <br />
 
-<p style="border-width: 2px;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anirban-saha&show_icons=true&locale=en&layout=compact" alt="anirban-saha" /></p>
-<br/>  
-<br />
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anirban-saha&show_icons=true&locale=en" alt="anirban-saha" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anirban-saha&" alt="anirban-saha" /></p>
