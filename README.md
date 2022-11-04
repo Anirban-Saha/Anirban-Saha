@@ -5,8 +5,7 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/anbsaha" target="blank"><img src="https://img.shields.io/twitter/follow/anbsaha?logo=twitter&style=for-the-badge" alt="anbsaha" /></a> </p>
  -->
-- 🔭 I’m learning **React JS**
-- 💻 Project Link: https://github.com/CuterNatives/Nest
+- 🔭 I’m currently learning **React JS**
 
 - 💬 Ask me about **Blockchain, Front-End**
 
