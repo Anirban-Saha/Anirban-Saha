@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/anbsaha" target="blank"><img src="https://img.shields.io/twitter/follow/anbsaha?logo=twitter&style=for-the-badge" alt="anbsaha" /></a> </p>
  -->
-- 🔭 I’m currently learning **React JS**
+- 🔭 I’m currently learning **Express**
 
 - 💬 Ask me about **Blockchain, Front-End**
 
