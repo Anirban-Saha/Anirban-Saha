@@ -1,6 +1,6 @@
 <h3 align="center">Full-Stack Developer from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anirban-saha&label=Profile%20views&color=0e75b6&style=flat" alt="anirban-saha" /> </p>
+
 
 - 🔭 I’m currently working on **Numeto and LinkBorg**
 
